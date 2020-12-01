@@ -1,4 +1,9 @@
-
+html{
+	scroll-behavior: smooth;
+}
+body{
+	font-family: 'Josefin Sans', sans-serif; 
+}
 /* *** VARIABLES COULEUR / FONTS / TRANSITIONS  */
 :root {
 	--colorBlanc:#fff;
@@ -22,7 +27,6 @@
 	--couleurAgenceSEO:#7FB764;
 	--couleurCreationSite:#4C8480;
 	--couleurAgendeDeCom:#B777ED;
-  
 	--fontFamilySerif1:'Playfair Display', serif;
 	--fontFamilyCursive1:'Dancing Script', cursive;
 	--vitesseTransition2: ease all 0.2s;
