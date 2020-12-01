@@ -557,4 +557,10 @@ borderRadius20px{
 .borderRadius100{
 	border-radius:100%;
 }
-
+/* *** CURSOR */
+.cursorPointer, .pointer{
+	cursor:pointer;
+}
+.cursorDefault {
+	cursor:default;
+}
