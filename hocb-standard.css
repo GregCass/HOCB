@@ -476,3 +476,73 @@ html{
 	line-height:55px;
 	line-height:5.5rem;
 }
+/* *** OPACITY */
+.opacity0, .opacity0Hover:Hover{
+	opacity:0;
+	transition:var(--vitesseTransition3);
+}
+.opacity02,.opacity02Hover:Hover {
+	opacity:0.2;
+	transition:var(--vitesseTransition3);
+}
+.opacity05, .opacity05Hover:Hover{
+	opacity:0.5;
+	transition:var(--vitesseTransition3);
+}
+.opacity08, .opacity08Hover:Hover{
+	opacity:0.8;
+	transition:var(--vitesseTransition3);
+}
+.opacity1, .opacity1Hover:Hover {
+	opacity:1;
+	transition:var(--vitesseTransition3);
+}
+/* *** BORDER-RADIUS  */
+/* PX */
+.borderRadius10px{
+	border-radius:10px;
+}
+.borderRadius15px {
+	border-radius:15px;
+}
+borderRadius20px{
+	border-radius:20px;
+}
+.borderRadius25px{
+	border-radius:25px;
+}
+.borderRadius30px {
+	border-radius:30px;
+}
+.borderRadius35{
+	border-radius:35px;
+}
+.borderRadius40px {
+	border-radius:40px;
+}
+.borderRadius45px {
+	border-radius:45px;
+}
+.borderRadius50px{
+	border-radius:50px;
+}
+/* % */
+.borderRadius5{
+	border-radius:5%;
+}
+.borderRadius10{
+	border-radius:10%;
+}
+.borderRadius20{
+	border-radius:20%;
+}
+.borderRadius50{
+	border-radius:50%;
+}
+.borderRadius50{
+	border-radius:75%;
+}
+.borderRadius100{
+	border-radius:100%;
+}
+
