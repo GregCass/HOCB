@@ -1784,432 +1784,862 @@ w5vw{
 	width:500vw;
 }
 @media only screen and (max-width: 1440px) {
-w5vw1440px{
-	width:5vw;
-}
-.w10vw1440px{
-	width:10vw;
-}
-.w15vw1440px{
-	width:15vw;
-}
-.w20vw1440px{
-	width:20vw;
-}
-.w25vw1440px{
-	width:25vw;
-}
-.w30vw1440px{
-	width:30vw;
-}
-.w35vw1440px{
-	width:35vw;
-}
-.w40vw1440px{
-	width:40vw;
-}
-.w45vw1440px{
-	width:45vw;
-}
-.w50vw1440px{
-	width:50vw;
-}
-.w55vw1440px{
-	width:55vw;
-}
-.w60vw1440px{
-	width:60vw;
-}
-.w65vw1440px{
-	width:65vw;
-}
-.w70vw1440px{
-	width:70vw;
-}
-.w75vw1440px{
-	width:75vw;
-}
-.w80vw1440px{
-	width:80vw;
-}
-.w85vw1440px{
-	width:85vw;
-}
-.w90vw1440px{
-	width:90vw;
-}
-.w95vw1440px{
-	width:95vw;
-}
-.w100vw1440px{
-	width:100vw;
-}
-.w150vw1440px{
-	width:150vw;
-}
-.w200vw1440px{
-	width:200vw;
-}
-.w250vw1440px{
-	width:250vw;
-}
-.w300vw1440px{
-	width:300vw;
-}
-.w350vw1440px{
-	width:350vw;
-}
-.w400vw1440px{
-	width:400vw;
-}
-.w450vw1440px{
-	width:450vw;
-}
-.w500vw1440px{
-	width:500vw;
-}
+	w5vwM1440px{
+		width:5vw;
+	}
+	.w10vwM1440px{
+		width:10vw;
+	}
+	.w15vwM1440px{
+		width:15vw;
+	}
+	.w20vwM1440px{
+		width:20vw;
+	}
+	.w25vwM1440px{
+		width:25vw;
+	}
+	.w30vwM1440px{
+		width:30vw;
+	}
+	.w35vwM1440px{
+		width:35vw;
+	}
+	.w40vwM1440px{
+		width:40vw;
+	}
+	.w45vwM1440px{
+		width:45vw;
+	}
+	.w50vwM1440px{
+		width:50vw;
+	}
+	.w55vwM1440px{
+		width:55vw;
+	}
+	.w60vwM1440px{
+		width:60vw;
+	}
+	.w65vwM1440px{
+		width:65vw;
+	}
+	.w70vwM1440px{
+		width:70vw;
+	}
+	.w75vwM1440px{
+		width:75vw;
+	}
+	.w80vwM1440px{
+		width:80vw;
+	}
+	.w85vwM1440px{
+		width:85vw;
+	}
+	.w90vwM1440px{
+		width:90vw;
+	}
+	.w95vwM1440px{
+		width:95vw;
+	}
+	.w100vwM1440px{
+		width:100vw;
+	}
+	.w150vwM1440px{
+		width:150vw;
+	}
+	.w200vwM1440px{
+		width:200vw;
+	}
+	.w250vwM1440px{
+		width:250vw;
+	}
+	.w300vwM1440px{
+		width:300vw;
+	}
+	.w350vwM1440px{
+		width:350vw;
+	}
+	.w400vwM1440px{
+		width:400vw;
+	}
+	.w450vwM1440px{
+		width:450vw;
+	}
+	.w500vwM1440px{
+		width:500vw;
+	}
 }
 @media only screen and (max-width: 1366px) {
-w5vw1366{
-	width:5vw;
-}
-.w10vw1366{
-	width:10vw;
-}
-.w15vw1366{
-	width:15vw;
-}
-.w20vw1366{
-	width:20vw;
-}
-.w25vw1366{
-	width:25vw;
-}
-.w30vw1366{
-	width:30vw;
-}
-.w35vw1366{
-	width:35vw;
-}
-.w40vw1366{
-	width:40vw;
-}
-.w45vw1366{
-	width:45vw;
-}
-.w50vw1366{
-	width:50vw;
-}
-.w55vw1366{
-	width:55vw;
-}
-.w60vw1366{
-	width:60vw;
-}
-.w65vw1366{
-	width:65vw;
-}
-.w70vw1366{
-	width:70vw;
-}
-.w75vw1366{
-	width:75vw;
-}
-.w80vw1366{
-	width:80vw;
-}
-.w85vw1366{
-	width:85vw;
-}
-.w90vw1366{
-	width:90vw;
-}
-.w95vw1366{
-	width:95vw;
-}
-.w100vw1366{
-	width:100vw;
-}
-.w150vw1366{
-	width:150vw;
-}
-.w200vw1366{
-	width:200vw;
-}
-.w250vw1366{
-	width:250vw;
-}
-.w300vw1366{
-	width:300vw;
-}
-.w350vw1366{
-	width:350vw;
-}
-.w400vw1366{
-	width:400vw;
-}
-.w450vw1366{
-	width:450vw;
-}
-.w500vw1366{
-	width:500vw;
-}
+	w5vwM1366px{
+		width:5vw;
+	}
+	.w10vwM1366px{
+		width:10vw;
+	}
+	.w15vwM1366px{
+		width:15vw;
+	}
+	.w20vwM1366px{
+		width:20vw;
+	}
+	.w25vwM1366px{
+		width:25vw;
+	}
+	.w30vwM1366px{
+		width:30vw;
+	}
+	.w35vwM1366px{
+		width:35vw;
+	}
+	.w40vwM1366px{
+		width:40vw;
+	}
+	.w45vwM1366px{
+		width:45vw;
+	}
+	.w50vwM1366px{
+		width:50vw;
+	}
+	.w55vwM1366px{
+		width:55vw;
+	}
+	.w60vwM1366px{
+		width:60vw;
+	}
+	.w65vwM1366px{
+		width:65vw;
+	}
+	.w70vwM1366px{
+		width:70vw;
+	}
+	.w75vwM1366px{
+		width:75vw;
+	}
+	.w80vwM1366px{
+		width:80vw;
+	}
+	.w85vwM1366px{
+		width:85vw;
+	}
+	.w90vwM1366px{
+		width:90vw;
+	}
+	.w95vwM1366px{
+		width:95vw;
+	}
+	.w100vwM1366px{
+		width:100vw;
+	}
+	.w150vwM1366px{
+		width:150vw;
+	}
+	.w200vwM1366px{
+		width:200vw;
+	}
+	.w250vwM1366px{
+		width:250vw;
+	}
+	.w300vwM1366px{
+		width:300vw;
+	}
+	.w350vwM1366px{
+		width:350vw;
+	}
+	.w400vwM1366px{
+		width:400vw;
+	}
+	.w450vwM1366px{
+		width:450vw;
+	}
+	.w500vwM1366px{
+		width:500vw;
+	}
 }
 @media only screen and (max-width: 1280px) {
-	w5vw1280{
-	width:5vw;
-}
-.w10vw1280{
-	width:10vw;
-}
-.w15vw1280{
-	width:15vw;
-}
-.w20vw1280{
-	width:20vw;
-}
-.w25vw1280{
-	width:25vw;
-}
-.w30vw1280{
-	width:30vw;
-}
-.w35vw1280{
-	width:35vw;
-}
-.w40vw1280{
-	width:40vw;
-}
-.w45vw1280{
-	width:45vw;
-}
-.w50vw1280{
-	width:50vw;
-}
-.w55vw1280{
-	width:55vw;
-}
-.w60vw1280{
-	width:60vw;
-}
-.w65vw1280{
-	width:65vw;
-}
-.w70vw1280{
-	width:70vw;
-}
-.w75vw1280{
-	width:75vw;
-}
-.w80vw1280{
-	width:80vw;
-}
-.w85vw1280{
-	width:85vw;
-}
-.w90vw1280{
-	width:90vw;
-}
-.w95vw1280{
-	width:95vw;
-}
-.w100vw1280{
-	width:100vw;
-}
-.w150vw1280{
-	width:150vw;
-}
-.w200vw1280{
-	width:200vw;
-}
-.w250vw1280{
-	width:250vw;
-}
-.w300vw1280{
-	width:300vw;
-}
-.w350vw1280{
-	width:350vw;
-}
-.w400vw1280{
-	width:400vw;
-}
-.w450vw1280{
-	width:450vw;
-}
-.w500vw1280{
-	width:500vw;
-}
+	w5vwM1280px{
+		width:5vw;
+	}
+	.w10vwM1280px{
+		width:10vw;
+	}
+	.w15vwM1280px{
+		width:15vw;
+	}
+	.w20vwM1280px{
+		width:20vw;
+	}
+	.w25vwM1280px{
+		width:25vw;
+	}
+	.w30vwM1280px{
+		width:30vw;
+	}
+	.w35vwM1280px{
+		width:35vw;
+	}
+	.w40vwM1280px{
+		width:40vw;
+	}
+	.w45vwM1280px{
+		width:45vw;
+	}
+	.w50vwM1280px{
+		width:50vw;
+	}
+	.w55vwM1280px{
+		width:55vw;
+	}
+	.w60vwM1280px{
+		width:60vw;
+	}
+	.w65vwM1280px{
+		width:65vw;
+	}
+	.w70vwM1280px{
+		width:70vw;
+	}
+	.w75vwM1280px{
+		width:75vw;
+	}
+	.w80vwM1280px{
+		width:80vw;
+	}
+	.w85vwM1280px{
+		width:85vw;
+	}
+	.w90vwM1280px{
+		width:90vw;
+	}
+	.w95vwM1280px{
+		width:95vw;
+	}
+	.w100vwM1280px{
+		width:100vw;
+	}
+	.w150vwM1280px{
+		width:150vw;
+	}
+	.w200vwM1280px{
+		width:200vw;
+	}
+	.w250vwM1280px{
+		width:250vw;
+	}
+	.w300vwM1280px{
+		width:300vw;
+	}
+	.w350vwM1280px{
+		width:350vw;
+	}
+	.w400vwM1280px{
+		width:400vw;
+	}
+	.w450vwM1280px{
+		width:450vw;
+	}
+	.w500vwM1280px{
+		width:500vw;
+	}
 }
 @media only screen and (max-width: 1024px) {
-w5vw1024{
-	width:5vw;
-}
-.w10vw1024{
-	width:10vw;
-}
-.w15vw1024{
-	width:15vw;
-}
-.w20vw1024{
-	width:20vw;
-}
-.w25vw1024{
-	width:25vw;
-}
-.w30vw1024{
-	width:30vw;
-}
-.w35vw1024{
-	width:35vw;
-}
-.w40vw1024{
-	width:40vw;
-}
-.w45vw1024{
-	width:45vw;
-}
-.w50vw1024{
-	width:50vw;
-}
-.w55vw1024{
-	width:55vw;
-}
-.w60vw1024{
-	width:60vw;
-}
-.w65vw1024{
-	width:65vw;
-}
-.w70vw1024{
-	width:70vw;
-}
-.w75vw1024{
-	width:75vw;
-}
-.w80vw1024{
-	width:80vw;
-}
-.w85vw1024{
-	width:85vw;
-}
-.w90vw1024{
-	width:90vw;
-}
-.w95vw1024{
-	width:95vw;
-}
-.w100vw1024{
-	width:100vw;
-}
-.w150vw1024{
-	width:150vw;
-}
-.w200vw1024{
-	width:200vw;
-}
-.w250vw1024{
-	width:250vw;
-}
-.w300vw1024{
-	width:300vw;
-}
-.w350vw1024{
-	width:350vw;
-}
-.w400vw1024{
-	width:400vw;
-}
-.w450vw1024{
-	width:450vw;
-}
-.w500vw1024{
-	width:500vw;
-}
+	w5vwM1024px{
+		width:5vw;
+	}
+	.w10vwM1024px{
+		width:10vw;
+	}
+	.w15vwM1024px{
+		width:15vw;
+	}
+	.w20vwM1024px{
+		width:20vw;
+	}
+	.w25vwM1024px{
+		width:25vw;
+	}
+	.w30vwM1024px{
+		width:30vw;
+	}
+	.w35vwM1024px{
+		width:35vw;
+	}
+	.w40vwM1024px{
+		width:40vw;
+	}
+	.w45vwM1024px{
+		width:45vw;
+	}
+	.w50vwM1024px{
+		width:50vw;
+	}
+	.w55vwM1024px{
+		width:55vw;
+	}
+	.w60vwM1024px{
+		width:60vw;
+	}
+	.w65vwM1024px{
+		width:65vw;
+	}
+	.w70vwM1024px{
+		width:70vw;
+	}
+	.w75vwM1024px{
+		width:75vw;
+	}
+	.w80vwM1024px{
+		width:80vw;
+	}
+	.w85vwM1024px{
+		width:85vw;
+	}
+	.w90vwM1024px{
+		width:90vw;
+	}
+	.w95vwM1024px{
+		width:95vw;
+	}
+	.w100vwM1024px{
+		width:100vw;
+	}
+	.w150vwM1024px{
+		width:150vw;
+	}
+	.w200vwM1024px{
+		width:200vw;
+	}
+	.w250vwM1024px{
+		width:250vw;
+	}
+	.w300vwM1024px{
+		width:300vw;
+	}
+	.w350vwM1024px{
+		width:350vw;
+	}
+	.w400vwM1024px{
+		width:400vw;
+	}
+	.w450vwM1024px{
+		width:450vw;
+	}
+	.w500vwM1024px{
+		width:500vw;
+	}
 }
 @media only screen and (max-width: 900px) {
-w5vw900{
-	width:5vw;
+	w5vwM900px{
+		width:5vw;
+	}
+	.w10vwM900px{
+		width:10vw;
+	}
+	.w15vwM900px{
+		width:15vw;
+	}
+	.w20vwM900px{
+		width:20vw;
+	}
+	.w25vwM900px{
+		width:25vw;
+	}
+	.w30vwM900px{
+		width:30vw;
+	}
+	.w35vwM900px{
+		width:35vw;
+	}
+	.w40vwM900px{
+		width:40vw;
+	}
+	.w45vwM900px{
+		width:45vw;
+	}
+	.w50vwM900px{
+		width:50vw;
+	}
+	.w55vwM900px{
+		width:55vw;
+	}
+	.w60vwM900px{
+		width:60vw;
+	}
+	.w65vwM900px{
+		width:65vw;
+	}
+	.w70vwM900px{
+		width:70vw;
+	}
+	.w75vwM900px{
+		width:75vw;
+	}
+	.w80vwM900px{
+		width:80vw;
+	}
+	.w85vwM900px{
+		width:85vw;
+	}
+	.w90vwM900px{
+		width:90vw;
+	}
+	.w95vwM900px{
+		width:95vw;
+	}
+	.w100vwM900px{
+		width:100vw;
+	}
+	.w150vwM900px{
+		width:150vw;
+	}
+	.w200vwM900px{
+		width:200vw;
+	}
+	.w250vwM900px{
+		width:250vw;
+	}
+	.w300vwM900px{
+		width:300vw;
+	}
+	.w350vwM900px{
+		width:350vw;
+	}
+	.w400vwM900px{
+		width:400vw;
+	}
+	.w450vwM900px{
+		width:450vw;
+	}
+	.w500vwM900px{
+		width:500vw;
+	}
 }
-.w10vw900{
-	width:10vw;
+/* *** HEIGHT PX*/
+.h10px {
+	height:10px;
 }
-.w15vw900{
-	width:15vw;
+.h20px {
+	height:20px;
 }
-.w20vw900{
-	width:20vw;
+.h30px {
+	height:30px;
 }
-.w25vw900{
-	width:25vw;
+.h40px {
+	height:40px;
 }
-.w30vw900{
-	width:30vw;
+.h50px {
+	height:50px;
 }
-.w35vw900{
-	width:35vw;
+.h60px {
+	height:60px;
 }
-.w40vw900{
-	width:40vw;
+.h70px {
+	height:70px;
 }
-.w45vw900{
-	width:45vw;
+.h80px {
+	height:80px;
 }
-.w50vw900{
-	width:50vw;
+.h90px {
+	height:90px;
 }
-.w55vw900{
-	width:55vw;
+.h100px {
+	height:100px;
 }
-.w60vw900{
-	width:60vw;
+.h150px {
+	height:150px;
 }
-.w65vw900{
-	width:65vw;
+.h200px {
+	height:200px;
 }
-.w70vw900{
-	width:70vw;
+.h250px {
+	height:250px;
 }
-.w75vw900{
-	width:75vw;
+.h300px {
+	height:300px;
 }
-.w80vw900{
-	width:80vw;
+.h350px {
+	height:350px;
 }
-.w85vw900{
-	width:85vw;
+.h400px {
+	height:400px;
 }
-.w90vw900{
-	width:90vw;
+.h450px {
+	height:450px;
 }
-.w95vw900{
-	width:95vw;
+.h500px {
+	height:500px;
 }
-.w100vw900{
-	width:100vw;
+.h550px {
+	height:550px;
 }
-.w150vw900{
-	width:150vw;
+.h600px {
+	height:600px;
 }
-.w200vw900{
-	width:200vw;
+.h650px {
+	height:650px;
 }
-.w250vw900{
-	width:250vw;
+.h700px {
+	height:700px;
 }
-.w300vw900{
-	width:300vw;
+.h750px {
+	height:750px;
 }
-.w350vw900{
-	width:350vw;
+.h800px {
+	height:800px;
 }
-.w400vw900{
-	width:400vw;
+.h850px {
+	height:850px;
 }
-.w450vw900{
-	width:450vw;
+.h900px {
+	height:900px;
 }
-.w500vw900{
-	width:500vw;
+.h950px {
+	height:950px;
 }
+.h1000px {
+	height:1000px;
+}
+/* *** HEIGHT PX*/
+@media only screen and (max-width: 1440px) {
+	.h10pxM1440px{
+		height:10px;
+	}
+	.h20pxM1440px{
+		height:20px;
+	}
+	.h30pxM1440px{
+		height:30px;
+	}
+	.h40pxM1440px{
+		height:40px;
+	}
+	.h50pxM1440px{
+		height:50px;
+	}
+	.h60pxM1440px{
+		height:60px;
+	}
+	.h70pxM1440px{
+		height:70px;
+	}
+	.h80pxM1440px{
+		height:80px;
+	}
+	.h90pxM1440px{
+		height:90px;
+	}
+	.h100pxM1440px{
+		height:100px;
+	}
+	.h150pxM1440px{
+		height:150px;
+	}
+	.h200pxM1440px{
+		height:200px;
+	}
+	.h250pxM1440px{
+		height:250px;
+	}
+	.h300pxM1440px{
+		height:300px;
+	}
+	.h350pxM1440px{
+		height:350px;
+	}
+	.h400pxM1440px{
+		height:400px;
+	}
+	.h450pxM1440px{
+		height:450px;
+	}
+	.h500pxM1440px{
+		height:500px;
+	}
+	.h550pxM1440px{
+		height:550px;
+	}
+	.h600pxM1440px{
+		height:600px;
+	}
+	.h650pxM1440px{
+		height:650px;
+	}
+	.h700pxM1440px{
+		height:700px;
+	}
+	.h750pxM1440px{
+		height:750px;
+	}
+	.h800pxM1440px{
+		height:800px;
+	}
+	.h850pxM1440px{
+		height:850px;
+	}
+	.h900pxM1440px{
+		height:900px;
+	}
+	.h950pxM1440px{
+		height:950px;
+	}
+	.h1000pxM1440px{
+		height:1000px;
+	}
+}
+@media only screen and (max-width: 1366px) {
+	.h10pxM1366px{
+		height:10px;
+	}
+	.h20pxM1366px{
+		height:20px;
+	}
+	.h30pxM1366px{
+		height:30px;
+	}
+	.h40pxM1366px{
+		height:40px;
+	}
+	.h50pxM1366px{
+		height:50px;
+	}
+	.h60pxM1366px{
+		height:60px;
+	}
+	.h70pxM1366px{
+		height:70px;
+	}
+	.h80pxM1366px{
+		height:80px;
+	}
+	.h90pxM1366px{
+		height:90px;
+	}
+	.h100pxM1366px{
+		height:100px;
+	}
+	.h150pxM1366px{
+		height:150px;
+	}
+	.h200pxM1366px{
+		height:200px;
+	}
+	.h250pxM1366px{
+		height:250px;
+	}
+	.h300pxM1366px{
+		height:300px;
+	}
+	.h350pxM1366px{
+		height:350px;
+	}
+	.h400pxM1366px{
+		height:400px;
+	}
+	.h450pxM1366px{
+		height:450px;
+	}
+	.h500pxM1366px{
+		height:500px;
+	}
+	.h550pxM1366px{
+		height:550px;
+	}
+	.h600pxM1366px{
+		height:600px;
+	}
+	.h650pxM1366px{
+		height:650px;
+	}
+	.h700pxM1366px{
+		height:700px;
+	}
+	.h750pxM1366px{
+		height:750px;
+	}
+	.h800pxM1366px{
+		height:800px;
+	}
+	.h850pxM1366px{
+		height:850px;
+	}
+	.h900pxM1366px{
+		height:900px;
+	}
+	.h950pxM1366px{
+		height:950px;
+	}
+	.h1000pxM1366px{
+		height:1000px;
+	}
+}
+@media only screen and (max-width: 1280px) {
+	.h10pxM1280px
+		height:10px;
+	}
+	.h20pxM1280px
+		height:20px;
+	}
+	.h30pxM1280px
+		height:30px;
+	}
+	.h40pxM1280px
+		height:40px;
+	}
+	.h50pxM1280px
+		height:50px;
+	}
+	.h60pxM1280px
+		height:60px;
+	}
+	.h70pxM1280px
+		height:70px;
+	}
+	.h80pxM1280px
+		height:80px;
+	}
+	.h90pxM1280px
+		height:90px;
+	}
+	.h100pxM1280px
+		height:100px;
+	}
+	.h150pxM1280px
+		height:150px;
+	}
+	.h200pxM1280px
+		height:200px;
+	}
+	.h250pxM1280px
+		height:250px;
+	}
+	.h300pxM1280px
+		height:300px;
+	}
+	.h350pxM1280px
+		height:350px;
+	}
+	.h400pxM1280px
+		height:400px;
+	}
+	.h450pxM1280px
+		height:450px;
+	}
+	.h500pxM1280px
+		height:500px;
+	}
+	.h550pxM1280px
+		height:550px;
+	}
+	.h600pxM1280px
+		height:600px;
+	}
+	.h650pxM1280px
+		height:650px;
+	}
+	.h700pxM1280px
+		height:700px;
+	}
+	.h750pxM1280px
+		height:750px;
+	}
+	.h800pxM1280px
+		height:800px;
+	}
+	.h850pxM1280px
+		height:850px;
+	}
+	.h900pxM1280px
+		height:900px;
+	}
+	.h950pxM1280px
+		height:950px;
+	}
+	.h1000pxM1280px
+		height:1000px;
+	}
+}
+@media only screen and (max-width: 1024px) {
+	.h10pxM1024px
+		height:10px;
+	}
+	.h20pxM1024px
+		height:20px;
+	}
+	.h30pxM1024px
+		height:30px;
+	}
+	.h40pxM1024px
+		height:40px;
+	}
+	.h50pxM1024px
+		height:50px;
+	}
+	.h60pxM1024px
+		height:60px;
+	}
+	.h70pxM1024px
+		height:70px;
+	}
+	.h80pxM1024px
+		height:80px;
+	}
+	.h90pxM1024px
+		height:90px;
+	}
+	.h100pxM1024px
+		height:100px;
+	}
+	.h150pxM1024px
+		height:150px;
+	}
+	.h200pxM1024px
+		height:200px;
+	}
+	.h250pxM1024px
+		height:250px;
+	}
+	.h300pxM1024px
+		height:300px;
+	}
+	.h350pxM1024px
+		height:350px;
+	}
+	.h400pxM1024px
+		height:400px;
+	}
+	.h450pxM1024px
+		height:450px;
+	}
+	.h500pxM1024px
+		height:500px;
+	}
+	.h550pxM1024px
+		height:550px;
+	}
+	.h600pxM1024px
+		height:600px;
+	}
+	.h650pxM1024px
+		height:650px;
+	}
+	.h700pxM1024px
+		height:700px;
+	}
+	.h750pxM1024px
+		height:750px;
+	}
+	.h800pxM1024px
+		height:800px;
+	}
+	.h850pxM1024px
+		height:850px;
+	}
+	.h900pxM1024px
+		height:900px;
+	}
+	.h950pxM1024px
+		height:950px;
+	}
+	.h1000pxM1024px
+		height:1000px;
+	}
 }
