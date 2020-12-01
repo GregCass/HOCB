@@ -8,6 +8,11 @@ body{
 	font-size: 1.4rem;/* 1.4 rem vaut 14px */ 
 	overflow-x:hidden;
 }
+p, ul, li
+{
+font-size:1.8rem;
+font-size:18px;
+}
 /* *** ALL ABOUT FONTS */
 /* *** FONT-WEIGHT */
 .fontBold{
