@@ -56,3 +56,400 @@ body{
 .fontFamilyCursive1 {
 	font-family: 'Dancing Script', cursive;
 }
+/* *** CUSTOM COLOR */
+.colorBlanc {
+	color:white!important;
+}
+.bgColorBlanc { 
+	background:rgb(255,255,255);
+	transition:var(--vitesseTransition3);
+}
+.colorBlancHover:hover{
+	color:white!important;
+	transition:var(--vitesseTransition3);
+}
+.borderColorBlanc{
+	border-color:rgb(255,255,255)!important;
+	transition:var(--vitesseTransition3);
+}
+.bgColorBlancHover:hover{
+	background:rgb(255,255,255);
+	transition:var(--vitesseTransition3);
+}
+.bgColorNoir {
+	background:rgb(0,0,0)!important;
+	color:white;
+	transition:var(--vitesseTransition3); 
+}
+.colorNoir {
+	color:#000000;
+	transition:var(--vitesseTransition3);
+}
+.bgColorNoir2{
+	background:#181818;
+	transition:var(--vitesseTransition3);
+}
+.bgColorLightDark{
+	background:#282828;
+	transition:var(--vitesseTransition3);
+}
+.bgColorLightGrey{
+	background:rgb(240, 240, 240);
+	transition:var(--vitesseTransition3);
+}
+.colorGrey{
+	color:#7f888f;
+	transition:var(--vitesseTransition3);
+}
+/* gradient */
+.bgGradient1, .bgGradient1Hover:hover {
+	background: #00467F;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(320deg, #A5CC82, #00467F);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(320deg, #A5CC82, #00467F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	transition:var(--vitesseTransition3);
+}
+.colorGradient1, .colorGradient1Hover{
+		background: #00467F;  /* fallback for old browsers */
+		background: -webkit-linear-gradient(320deg, #A5CC82, #00467F);  /* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(320deg, #A5CC82, #00467F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		transition:var(--vitesseTransition3);
+}
+.bgGradient2, .bgGradient2Hover:hover {
+	background: #1f4037;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(320deg, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(320deg, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	transition:var(--vitesseTransition3);
+}
+.colorGradient2, .colorGradient2Hover{
+	background: #1f4037;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(320deg, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(320deg, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition:var(--vitesseTransition3);
+}
+.bgGradient3, .bgGradient3Hover:hover {
+	/* harmonic henergie */
+	background: #16A085;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(320deg, #F4D03F, #16A085);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(320deg, #F4D03F, #16A085); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+transition:var(--vitesseTransition3);
+}
+.colorGradient3, .colorGradient3Hover{
+	/* harmonic henergie */ 
+	background: #16A085;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(320deg, #F4D03F, #16A085);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(320deg, #F4D03F, #16A085); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition:var(--vitesseTransition3);
+}
+.bgGradient4, .bgGradient4Hover:hover {
+	background: #12c2e9;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(320deg, #f64f59, #c471ed, #1d52a6);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(320deg, #f64f59, #c471ed, #1d52a6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	transition:var(--vitesseTransition3); 
+}
+.colorGradient4, .colorGradient4Hover{
+	background: #12c2e9;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(320deg, #f64f59, #c471ed, #1d52a6);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(320deg, #f64f59, #c471ed, #1d52a6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition:var(--vitesseTransition3);
+}
+.bgGradient5  {
+    background: -webkit-linear-gradient(270deg, #46b7b4, #e88a2e, #2e6be8);
+    background: linear-gradient(270deg, #46b7b4, #e88a2e, #2e6be8);
+  
+}
+.bgGradientAnimation {
+	background-size: 150% 150% !important;
+    -webkit-animation: bgGradientAnimation 30s ease infinite;
+    -moz-animation: bgGradientAnimation 30s ease infinite;
+    -o-animation: bgGradientAnimation 30s ease infinite;
+    animation: bgGradientAnimation 30s ease infinite;
+}
+@-webkit-keyframes bgGradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes bgGradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes bgGradientAnimation {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+/* ********************************************* COULEUR NÂ°1 */
+.color1{
+	/*vert foncé  */
+	color:var(--color1);
+}
+.color1Hover {
+	transition:var(--vitesseTransition3);
+}
+.color1Hover:hover{
+	color:var(--color1)!important;
+}
+.bgColor1 {
+		/*vert foncé  */ 
+	background-color:var(--color1); 
+	color:#fff;
+}
+.bgColor1translucide05{
+	background-color:rgba(63,184,169,0.5);
+}
+.bgColor1Hover{
+	transition:var(--vitesseTransition3);
+}
+.bgColor1Hover:hover{
+	background-color:var(--color1)!important;
+	color:#fff!important;
+}
+	/*vert foncé  */
+.borderColor1{
+	border-color:var(--color1)!important;
+}
+.color1Burned{
+	color:var(--color1Burned);
+}
+.borderColor1Burned{
+	border-color:var(--color1Burned)!important;
+}
+/* ********************************************* COULEUR NÂ°2 */
+.color2{
+	color:var(--color2)!important;
+}
+.color2Hover {
+	transition:var(--vitesseTransition3);
+}
+.color2Hover:hover{
+	color:var(--color2)!important;
+}
+.bgColor2{
+	background-color:var(--color2)!important;
+}
+.bgColor2Hover:hover{
+	transition:var(--vitesseTransition3);
+	background-color:var(--color2)!important;
+}
+.borderColor2 {
+	border-color:var(--color2)!important;
+}
+.borderColor2Hover:hover{
+	border-color:var(--color2)!important;
+}
+/* ********************************************* COULEUR NÂ°3 */
+.color3{
+	/* saumon orange du niger  */
+	color:var(--color3)!important;
+}
+.color3Hover {
+	transition:var(--vitesseTransition3);
+}
+.color3Hover:hover{
+	color:var(--color3)!important;
+}
+.bgColor3{
+	/* saumon orange du niger  */
+	background-color:var(--color3)!important;
+}
+.bgColor3Hover:hover{
+	background-color:var(--color3)!important;
+
+}
+.borderColor3 {
+	/* saumon orange du niger  */
+	border-color:var(--color3)!important;
+}
+/* saumon orange du niger  */
+.borderColor3Hover:hover{
+	border-color:var(--color3)!important;
+}
+.color3milked{
+	color:#FBD9C9;
+}
+.borderColor3Milked{
+	border-color:#FBD9C9!important;
+}
+/* ********************************************* COULEUR NÂ°4*/
+/* saumon rose  */
+.color4{
+	/* saumon rose  */
+	color:var(--color4)!important;
+}
+.color4Hover {
+	transition:var(--vitesseTransition3);
+}
+.color4Hover:hover{
+	color:var(--color4)!important;
+}
+.bgColor4{
+	/* saumon rose  */
+	background-color:var(--color4);
+}
+.borderColor4 {
+/* saumon rose  */
+	border-color:var(--color4)!important;
+}
+/* saumon rose  */
+.borderColor4Hover:hover{
+	border-color:var(--color4)!important;
+}
+
+/* ********************************************* COULEUR NÂ°5 */
+.color5{
+	/* vert fluo  */
+	color:var(--color5);
+}
+.color5Hover {
+	transition:var(--vitesseTransition3);
+}
+.color5Hover:hover{
+	color:var(--color5)!important;
+}
+.bgColor5{
+	/* vert fluo  */
+	background-color:var(--color5);
+}
+.borderColor5 {
+/* vert fluo  */
+	border-color:var(--color5)!important;
+}
+/* vert fluo  */
+.borderColor5Hover:hover{
+	border-color:var(--color5)!important;
+}
+/* ********************* couleur speciale  */
+.bgColorGradien1{
+ background: rgb(33,131,128);
+background: linear-gradient(315deg, rgba(33,131,128,1) 0%, rgba(253,187,45,1) 100%); 
+}
+.bgColorOrangeGradien{
+background: rgb(255,153,107);
+background: linear-gradient(90deg, rgba(255,153,107,1) 0%, rgba(255,170,133,1) 100%);
+}
+.color6{
+	color:var(--color6);
+}
+.color6Hover {
+	transition:var(--vitesseTransition3);
+}
+.color6Hover {
+	color:var(--color6)!important;
+}
+.bgColor6{
+	background-color:var(--color6);
+}
+
+.color7{
+	color:var(--color7);
+}
+.color7Hover {
+	transition:var(--vitesseTransition3);
+}
+.color7Hover:hover{
+	color:var(--color7)!important;
+}
+.bgColor7{
+	background-color:var(--color7);
+}
+
+/* ********************* THEME PRIMAWEB  */
+.color5{
+	/* vert fluo  */
+	color:var(--color5);
+}
+.color1{
+	/*vert foncé  */
+	color:var(--color1)!important;  
+}
+.color2{
+	/* orange foncé */  
+	color:var(--color2)!important;
+}
+.color3{
+	/* saumon orange du niger  */
+	color:var(--color3)!important;
+}
+.color4{
+	/* saumon rose  */
+	color:var(--color4)!important;
+}
+/* class par page et thème : 1 accueil / 2 création site internet / 3 SEO / 4 Communication  */
+.color1-1{
+	color:var(--color1);
+}
+.bgColor1-2{
+	/* agence de com - purple */
+	background-color:var(--couleurCreationSite)!important;
+}
+.color1-2, .colorCreationSite{
+	/* agence de com - purple */
+	color:var(--couleurCreationSite);
+}
+.color1-2Hover {
+	transition:var(--vitesseTransition3);
+}
+.color1-2Hover:hover{
+	color:var(--couleurCreationSite)!important;
+}
+.bgColor1-2Hover:hover{
+	background-color:var(--couleurCreationSite)!important;
+}
+.borderColor1-2 {
+	/* saumon orange du niger  */
+	border-color:var(--couleurCreationSite)!important;
+}
+/* ** */
+.color1-3, .couleurAgenceSEO{
+	/* agence seo - jaune/vert */
+	color:var(--couleurAgenceSEO)!important;
+}
+.bgColor1-3{
+	/* agence seo jaune/vert */
+	background-color:var(--couleurAgenceSEO);
+}
+.bgColor1-3Hover{
+	transition:var(--vitesseTransition3);
+}
+.bgColor1-3Hover:hover{
+	background-color:var(--couleurAgenceSEO)!important;
+}
+.bgColor1-4{
+	/* creation site internet bleu / vert */
+	background-color:var(--couleurAgendeDeCom)!important;
+}
+.bgColor1-4Hover:hover{ 
+	/* creation site internet bleu / vert */
+	background-color:var(--couleurAgendeDeCom)!important;
+}
+.color1-4{
+	/* agence de com - purple */
+	color:var(--couleurAgendeDeCom)!important;
+} 
+.colorPurpleRain{
+	color:#C670E8 !important;
+}
+.colorPurpleRainHover:hover{
+	color:#C670E8 !important;
+}
+.bgColorPurpleRain{
+	background-color:#C670E8 !important;
+}
+.bgColorPurpleRainHover:hover{
+	background-color:#C670E8 !important;
+}
+/* *** TAILLE WIDTH EN POURCENTAGE */
