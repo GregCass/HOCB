@@ -1,1 +1,478 @@
-
+html{
+  font-size:62.5%;/* 1rem vaut 10px - (16 x62.5/100 = 10) */	
+}
+/* *** ALL ABOUT FONTS */
+/* *** FONT-WEIGHT */
+.fontBold{
+	font-weight:bold;
+}
+.fontNormal{
+	font-weight:Normal;
+}
+.font100{
+	font-weight:100;
+}
+.font200{
+	font-weight:200;
+}
+.font300{
+	font-weight:300;
+}
+.font400{
+	font-weight:400;
+}
+.font500{
+	font-weight:500;
+}
+.font600{
+	font-weight:600;
+}
+.font700{
+	font-weight:700;
+}
+.font800{
+	font-weight:800;
+}
+.font900{
+	font-weight:900;
+}
+/* *** FONT-SIZE - 10 - 12 - 15 - 18 - 20 - etc */
+.fontSize10px{
+	font-size:10px;
+	font-size:1rem;
+}
+.fontSize12px{
+	font-size:12px;
+	font-size:1.2rem;
+}
+.fontSize15px{
+	font-size:15px;
+	font-size:1.5rem;
+}
+.fontSize18px{
+	font-size:18px;
+	font-size:1.8rem;
+}
+.fontSize20px{
+	font-size:20px;
+	font-size:2rem;
+}
+.fontSize22px{
+	font-size:22px;
+	font-size:2.2rem;
+}
+.fontSize25px{
+	font-size:25px;
+	font-size:2.5rem;
+}
+.fontSize28px{
+	font-size:28px;
+	font-size:2.8rem;
+}
+.fontSize30px{
+	font-size:30px;
+	font-size:3rem;
+}
+.fontSize32px{
+	font-size:32px;
+	font-size:3.2rem;
+}
+.fontSize35px{
+	font-size:35px;
+	font-size:3.5rem;
+}
+.fontSize38px{
+	font-size:38px;
+	font-size:3.8rem;
+}
+.fontSize40px{
+	font-size:40px;
+	font-size:4rem;
+}
+.fontSize42px{
+	font-size:42px;
+	font-size:4.2rem;
+}
+.fontSize45px{
+	font-size:45px;
+	font-size:4.5rem;
+}
+.fontSize48px{
+	font-size:48px;
+	font-size:4.8rem;
+}
+.fontSize50px{
+	font-size:50px;
+	font-size:5rem;
+}
+.fontSize52px{
+	font-size:52px;
+	font-size:5.2rem;
+}
+.fontSize55px{
+	font-size:55px;
+	font-size:5.5rem;
+}
+.fontSize58px{
+	font-size:58px;
+	font-size:5.8rem;
+}
+.fontSize60px{
+	font-size:60px;
+	font-size:6rem;
+}
+/* *** FONT-SIZE RESPONSIVE */
+@media only screen and (max-width: 1440px) {
+	  .fontSize22pxM1440{
+		font-size:22px!important;
+		font-size:2.2rem!important;
+	}
+	.fontSize25pxM1440{
+		font-size:25px!important;
+		font-size:2.5rem!important;
+	}
+	.fontSize28pxM1440{
+		font-size:28px!important;
+		font-size:2.8rem!important;
+	}
+	.fontSize30pxM1440{
+		font-size:30px!important;
+		font-size:3rem!important;
+	}
+	.fontSize32pxM1440{
+		font-size:32px!important;
+		font-size:3.2rem!important;
+	}
+	.fontSize35pxM1440{
+		font-size:35px!important;
+		font-size:3.5rem!important;
+	}
+	.fontSize38pxM1440{
+		font-size:38px!important;
+		font-size:3.8rem!important;
+	}
+	.fontSize40pxM1440{
+		font-size:40px!important;
+		font-size:4rem!important;
+	}
+	.fontSize42pxM1440{
+		font-size:42px!important;
+		font-size:4.2rem!important;
+	}
+	.fontSize45pxM1440{
+		font-size:45px!important;
+		font-size:4.5rem!important;
+	}
+	.fontSize48pxM1440{
+		font-size:48px!important;
+		font-size:4.8rem!important;
+	}
+	.fontSize50pxM1440{
+		font-size:50px!important;
+		font-size:5rem!important;
+	}
+  }
+@media only screen and (max-width: 1366px) {
+	  .fontSize22pxM1366{
+		font-size:22px!important;
+		font-size:2.2rem!important;
+	}
+	.fontSize25pxM1366{
+		font-size:25px!important;
+		font-size:2.5rem!important;
+	}
+	.fontSize28pxM1366{
+		font-size:28px!important;
+		font-size:2.8rem!important;
+	}
+	.fontSize30pxM1366{
+		font-size:30px!important;
+		font-size:3rem!important;
+	}
+	.fontSize32pxM1366{
+		font-size:32px!important;
+		font-size:3.2rem!important;
+	}
+	.fontSize35pxM1366{
+		font-size:35px!important;
+		font-size:3.5rem!important;
+	}
+	.fontSize38pxM1366{
+		font-size:38px!important;
+		font-size:3.8rem!important;
+	}
+	.fontSize40pxM1366{
+		font-size:40px!important;
+		font-size:4rem!important;
+	}
+	.fontSize42pxM1366{
+		font-size:42px!important;
+		font-size:4.2rem!important;
+	}
+	.fontSize45pxM1366{
+		font-size:45px!important;
+		font-size:4.5rem!important;
+	}
+	.fontSize48pxM1366{
+		font-size:48px!important;
+		font-size:4.8rem!important;
+	}
+	.fontSize50pxM1366{
+		font-size:50px!important;
+		font-size:5rem!important;
+	}
+  }
+@media only screen and (max-width: 1280px) {
+	.fontSize22pxM1280{
+		font-size:22px!important;
+		font-size:2.2rem!important;
+	}
+	.fontSize25pxM1280{
+		font-size:25px!important;
+		font-size:2.5rem!important;
+	}
+	.fontSize28pxM1280{
+		font-size:28px!important;
+		font-size:2.8rem!important;
+	}
+	.fontSize30pxM1280{
+		font-size:30px!important;
+		font-size:3rem!important;
+	}
+	.fontSize32pxM1280{
+		font-size:32px!important;
+		font-size:3.2rem!important;
+	}
+	.fontSize35pxM1280{
+		font-size:35px!important;
+		font-size:3.5rem!important;
+	}
+	.fontSize38pxM1280{
+		font-size:38px!important;
+		font-size:3.8rem!important;
+	}
+	.fontSize40pxM1280{
+		font-size:40px!important;
+		font-size:4rem!important;
+	}
+	.fontSize42pxM1280{
+		font-size:42px!important;
+		font-size:4.2rem!important;
+	}
+	.fontSize45pxM1280{
+		font-size:45px!important;
+		font-size:4.5rem!important;
+	}
+	.fontSize48pxM1280{
+		font-size:48px!important;
+		font-size:4.8rem!important;
+	}
+	.fontSize50pxM1280{
+		font-size:50px!important;
+		font-size:5rem!important;
+	}
+  }
+@media only screen and (max-width: 1024px) {
+	.fontSize22pxM1024{
+		font-size:22px!important;
+		font-size:2.2rem!important;
+	}
+	.fontSize25pxM1024{
+		font-size:25px!important;
+		font-size:2.5rem!important;
+	}
+	.fontSize28pxM1024{
+		font-size:28px!important;
+		font-size:2.8rem!important;
+	}
+	.fontSize30pxM1024{
+		font-size:30px!important;
+		font-size:3rem!important;
+	}
+	.fontSize32pxM1024{
+		font-size:32px!important;
+		font-size:3.2rem!important;
+	}
+	.fontSize35pxM1024{
+		font-size:35px!important;
+		font-size:3.5rem!important;
+	}
+	.fontSize38pxM1024{
+		font-size:38px!important;
+		font-size:3.8rem!important;
+	}
+	.fontSize40pxM1024{
+		font-size:40px!important;
+		font-size:4rem!important;
+	}
+	.fontSize42pxM1024{
+		font-size:42px!important;
+		font-size:4.2rem!important;
+	}
+	.fontSize45pxM1024{
+		font-size:45px!important;
+		font-size:4.5rem!important;
+	}
+	.fontSize48pxM1024{
+		font-size:48px!important;
+		font-size:4.8rem!important;
+	}
+	.fontSize50pxM1024{
+		font-size:50px!important;
+		font-size:5rem!important;
+	}
+	 
+  }
+  @media only screen and (max-width: 900px) {
+	  /* ajouter M900 pour mobile résolution 900 px  */
+	.fontSizeMoyenMobile900{
+		font-size:16px!important;
+		font-size:1.6rem!important;
+	}
+	.fontSize10pxM900{
+	font-size:10px!important;
+	font-size:1rem!important;
+	}
+	.fontSize12pxM900{
+		font-size:12px!important;
+		font-size:1.2rem!important;
+	}
+	.fontSize15pxM900{
+		font-size:15px!important;
+		font-size:1.5rem!important;
+	}
+	.fontSize18pxM900{
+		font-size:18px!important;
+		font-size:1.8rem!important;
+	}
+	.fontSize20pxM900{
+		font-size:20px!important;
+		font-size:2rem!important;
+	}
+	.fontSize22pxM900 {
+		font-size:22px!important;
+		font-size:2.2rem!important;
+	}
+	.fontSize25pxM900{
+		font-size:25px!important;
+		font-size:2.5rem!important;
+	}
+	.fontSize28pxM900{
+		font-size:28px!important;
+		font-size:2.8rem!important;
+	}
+	.fontSize30pxM900{
+		font-size:30px!important;
+		font-size:3rem!important;
+	}
+	.fontSize32pxM900{
+		font-size:32px!important;
+		font-size:3.2rem!important;
+	}
+	.fontSize35pxM900{
+		font-size:35px!important;
+		font-size:3.5rem!important;
+	}
+	.fontSize38pxM900{
+		font-size:38px!important;
+		font-size:3.8rem!important;
+	}
+	.fontSize40pxM900{
+		font-size:40px!important;
+		font-size:4rem!important;
+	}
+	.fontSize42pxM900{
+		font-size:42px!important;
+		font-size:4.2rem!important;
+	}
+	.fontSize45pxM900{
+		font-size:45px!important;
+		font-size:4.5rem!important;
+	}
+	.fontSize48pxM900{
+		font-size:48px!important;
+		font-size:4.8rem!important;
+	}
+	.fontSize50pxM900{
+		font-size:50px!important;
+		font-size:5rem!important;
+	}
+}
+/* *** LINE-HEIGHT */
+/* *** LINE-HEIGHT */
+.lineHeight10px{
+	line-height:10px;
+	line-height:1rem;
+}
+.lineHeight12px{
+	line-height:12px;
+	line-height:1.2rem;
+}
+.lineHeight15px{
+	line-height:15px;
+	line-height:1.5rem;
+}
+.lineHeight18px{
+	line-height:18px;
+	line-height:1.8rem;
+}
+.lineHeight20px{
+	line-height:20px;
+	line-height:2rem;
+}
+.lineHeight22px{
+	line-height:22px;
+	line-height:2.2rem;
+}
+.lineHeight25px{
+	line-height:25px;
+	line-height:2.5rem;
+}
+.lineHeight28px{
+	line-height:28px;
+	line-height:2.8rem;
+}
+.lineHeight30px{
+	line-height:30px;
+	line-height:3rem;
+}
+.lineHeight32px{
+	line-height:32px;
+	line-height:3.2rem;
+}
+.lineHeight35px{
+	line-height:35px;
+	line-height:3.5rem;
+}
+.lineHeight38px{
+	line-height:38px;
+	line-height:3.8rem;
+}
+.lineHeight40px{
+	line-height:40px;
+	line-height:4rem;
+}
+.lineHeight42px{
+	line-height:42px;
+	line-height:4.2rem;
+}
+.lineHeight45px{
+	line-height:45px;
+	line-height:4.5rem;
+}
+.lineHeight48px{
+	line-height:48px;
+	line-height:4.8rem;
+}
+.lineHeight50px{
+	line-height:50px;
+	line-height:5rem;
+}
+.lineHeight52px{
+	line-height:52px;
+	line-height:5.2rem;
+}
+.lineHeight55px{
+	line-height:55px;
+	line-height:5.5rem;
+}
