@@ -1,6 +1,13 @@
 html{
   font-size:62.5%;/* 1rem vaut 10px - (16 x62.5/100 = 10) */	
 }
+body{
+	margin:0;
+	padding:0;
+	font-size: 14px; /*pour IE */
+	font-size: 1.4rem;/* 1.4 rem vaut 14px */ 
+	overflow-x:hidden;
+}
 /* *** ALL ABOUT FONTS */
 /* *** FONT-WEIGHT */
 .fontBold{
