@@ -1,1 +1,54 @@
 
+/* *** VARIABLES COULEUR / FONTS / TRANSITIONS  */
+:root {
+	--colorBlanc:#fff;
+	--colorNoir:#000;
+	/*vert foncé */
+	--color1:#46b7b4;
+	--color1Burned:#30aa9b;
+	/*orange Foncé */
+	--color2:#D81159;
+	/*Orange vif*/
+	--color3:#FFBC42;
+	/*orange pastel */
+	--color4:#D81159;
+	/*bleu turquoise fluo très vif*/
+	--color5:#6BFFEE;
+	/*vert gris très léger*/
+	--color6:#DAF2EF;
+	/*vert gris léger moins que color6*/
+	--color7:#B2E5E0;
+	--color8:#F5BCA1;
+	--couleurAgenceSEO:#7FB764;
+	--couleurCreationSite:#4C8480;
+	--couleurAgendeDeCom:#B777ED;
+  
+	--fontFamilySerif1:'Playfair Display', serif;
+	--fontFamilyCursive1:'Dancing Script', cursive;
+	--vitesseTransition2: ease all 0.2s;
+	--vitesseTransition3: ease all 0.3s;;
+	--gradient1:;
+}
+
+/* *** FONT FAMILY */
+.fontFamilySansSerif1 {
+		font-family: 'Quicksand', sans-serif;
+}
+.fontFamilySansSerif2 {
+		font-family:'Raleway', sans-serif; 
+}
+.fontFamilySansSerif3 {
+		font-family: 'Josefin Sans', sans-serif; 
+}
+.fontFamilySerif1{
+	font-family: 'Playfair Display', serif;
+}
+.fontFamilySerif2{
+	font-family: 'PT Serif', serif;
+}
+.fontFamilySerif3{
+	font-family: 'Amiri', serif;
+}
+.fontFamilyCursive1 {
+	font-family: 'Dancing Script', cursive;
+}
