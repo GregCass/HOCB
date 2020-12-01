@@ -488,6 +488,16 @@ line-height:5.2rem;
 line-height:55px;
 line-height:5.5rem;
 }
+/* *** TEXT TRANSFORM */
+.uppercase{
+text-transform: uppercase;
+}
+.lowercase{
+text-transform: lowercase!important;
+}
+.capitalize{
+text-transform: capitalize;
+}
 /* *** OPACITY */
 .opacity0, .opacity0Hover:Hover{
 opacity:0;
