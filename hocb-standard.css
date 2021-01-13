@@ -498,6 +498,27 @@ text-transform: lowercase!important;
 .capitalize{
 text-transform: capitalize;
 }
+.italic{
+	font-style: italic;
+}
+.oblique{
+	  font-style: oblique;
+}
+/* ********************************************* TEXT Decoration */
+.textDecorationNone{
+	text-decoration:none;
+	transition:var(--vitesseTransition3);
+}
+.textDecorationNoneHover:hover{
+	text-decoration:none;
+}
+.underline{
+	text-decoration:underline;
+	transition:var(--vitesseTransition3);
+}
+.underlineHover:hover{
+	text-decoration:underline;
+}
 /* *** OPACITY */
 .opacity0, .opacity0Hover:Hover{
 opacity:0;
@@ -566,6 +587,29 @@ border-radius:75%;
 }
 .borderRadius100{
 border-radius:100%;
+}
+/* ********************************************* BORDER BOX  */
+.borderBox{
+	box-sizing:border-box;
+}
+/* ********************************************* Border */
+.borderSolid{
+	border:solid;
+}
+.borderSolid1, .borderSolid1px {
+	border:solid 1px;
+}
+.borderSolid2, .borderSolid2px {
+	border:solid 2px;
+}
+.borderSolid3, .borderSolid3px {
+	border:solid 3px;
+}
+.borderSolid4, .borderSolid4px {
+	border:solid 4px;
+}
+.borderSolid5, .borderSolid5px {
+	border:solid 5px;
 }
 /* *** CURSOR */
 .cursorPointer, .pointer{
@@ -7156,4 +7200,88 @@ padding:0rem;
 padding:0px;
 padding:0rem;
 }
+}
+/* *************************************************** OVERFLOW */
+.overflowHidden{
+	overflow:hidden;
+}
+.hidden{
+	overflow:hidden;
+}
+.overflowAuto{
+	overflow:auto;
+}
+.overflowScroll{
+	overflow:scroll;
+}
+/* ********************************************* SPECIAL EFFECT */
+.absoluteCenterXY {
+	/* Pour centrÃ© horizontalement et verticalement un Ã©lÃ©ment en position absolut - Attention ! le parent doit Ãªtre positionnÃ© absolut ou relative  */
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	transition:var(--vitesseTransition3);
+}
+.absoluteCenterY{
+	position: absolute;
+	top: 50%;
+	left: 0%;
+	transform: translate(-50%, -80%);
+	transition:var(--vitesseTransition3);
+}
+/* pour faire l'effet background conver avec une balise <img/> a mettre sur la balise*/
+/* Attention mettre position relative sur le parent */
+.imgBackgroundEffect{
+	display: block;
+	position: absolute;
+	left: -10000%;
+	right: -10000%;
+	top: -10000%;
+	bottom: -10000%;
+	margin: auto auto;
+	min-width: 1000%;
+	min-height: 1000%;
+	-webkit-transform: scale(0.1);
+	transform: scale(0.1);
+	transition: var(--vitesseTransition2);
+	z-index:-1;
+}
+/* ************************ Filter */
+.filtreSepia{
+	-webkit-filter: sepia(1);
+  filter: sepia(1);
+}
+.filterBlack{
+	background:rgba(0,0,0,0.4);
+}
+/* **********************************************liste *** ul et li */
+/* Attention !!! les class listStyle s'applique à <ul> */
+.listStyleNone, .listeStyleNone{
+	list-style: none;
+	padding:0;
+	font-size:inherit;
+}
+.listSquare{
+	list-style: square;
+}
+.listImage1{
+	list-style: url('../img/etoile.png');
+}
+.listCircle{
+	list-style: circle;
+}
+.listInside{
+	list-style: inside;
+}
+.listOutside{
+	list-style: outside;
+}
+.animChildFather:hover .animScaleHover{
+	transform:scale(1.1);
+	transition:ease all 0.3s;
+}
+.animScaleHover{
+	transform:scale(1);
+		transition:ease all 0.3s;
 }
