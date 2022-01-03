@@ -31,7 +31,7 @@ body{
 	--fontFamilyCursive1:'Dancing Script', cursive;
 	--vitesseTransition2: ease all 0.2s;
 	--vitesseTransition3: ease all 0.3s;;
-	--gradient1:;
+
 }
 
 /* *** FONT FAMILY */
@@ -56,51 +56,7 @@ body{
 .fontFamilyCursive1 {
 	font-family: 'Dancing Script', cursive;
 }
-/* *** CUSTOM COLOR */
-.colorBlanc {
-	color:white!important;
-}
-.bgColorBlanc { 
-	background:rgb(255,255,255);
-	transition:var(--vitesseTransition3);
-}
-.colorBlancHover:hover{
-	color:white!important;
-	transition:var(--vitesseTransition3);
-}
-.borderColorBlanc{
-	border-color:rgb(255,255,255)!important;
-	transition:var(--vitesseTransition3);
-}
-.bgColorBlancHover:hover{
-	background:rgb(255,255,255);
-	transition:var(--vitesseTransition3);
-}
-.bgColorNoir {
-	background:rgb(0,0,0)!important;
-	color:white;
-	transition:var(--vitesseTransition3); 
-}
-.colorNoir {
-	color:#000000;
-	transition:var(--vitesseTransition3);
-}
-.bgColorNoir2{
-	background:#181818;
-	transition:var(--vitesseTransition3);
-}
-.bgColorLightDark{
-	background:#282828;
-	transition:var(--vitesseTransition3);
-}
-.bgColorLightGrey{
-	background:rgb(240, 240, 240);
-	transition:var(--vitesseTransition3);
-}
-.colorGrey{
-	color:#7f888f;
-	transition:var(--vitesseTransition3);
-}
+
 /* gradient */
 .bgGradient1, .bgGradient1Hover:hover {
 	background: #00467F;  /* fallback for old browsers */
